@@ -1,4 +1,4 @@
-# Echo3D_demo
+# Marble Maze Game
 
 Example Unity Project with echo3D integrated. 
 
