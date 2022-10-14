@@ -2,7 +2,7 @@
 
 Example Unity Project with echo3D integrated. 
 
-This marble maze game loads some of its decoration and destination using the Echo3D API. Control the ball through a maze to reach the Eiffel tower at the end.
+This marble maze game loads some of its decoration and destination using the Echo3D API. Control the ball through a maze to find out the right landmark to escape the maze. 
 
 # Version
 
@@ -13,7 +13,7 @@ Built and tested with Unity [2020.3.0f1](https://unity3d.com/get-unity/download/
 
 Don't have an API Key? Make sure to register for FREE at [echo3D](https://www.echo3d.co).
 
-# Set up
+# Set uplandmark
 
 * Clone this project repository locally 
 * [Downloading the Unity SDK](https://docs.echo3d.co/unity/installation)
