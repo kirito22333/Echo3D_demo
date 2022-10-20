@@ -16,7 +16,6 @@ Don't have an API Key? Make sure to register for FREE at [echo3D](https://www.ec
 # Set uplandmark
 
 * Clone this project repository locally 
-* [Downloading the Unity SDK](https://docs.echo3d.co/unity/installation)
 * Open the SampleScene scene in the scene folder under assets.
 
 # Run the game
