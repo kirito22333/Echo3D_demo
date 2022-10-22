@@ -13,7 +13,7 @@ public class NextLevel : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             GameObject.Find("Player").SendMessage("Finish");
-            // SceneManager.LoadScene(levelToLoad);
+            SceneManager.LoadScene(levelToLoad);
         }
     }
 }

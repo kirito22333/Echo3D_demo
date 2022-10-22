@@ -33,5 +33,6 @@ public class timer : MonoBehaviour
 
     public void Finish(){
         finished = true;
+        PlayerPrefs.SetString("time", timerText.text);
     }
 }
