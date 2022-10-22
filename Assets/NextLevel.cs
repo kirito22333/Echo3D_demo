@@ -12,7 +12,8 @@ public class NextLevel : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            SceneManager.LoadScene(levelToLoad);
+            GameObject.Find("Player").SendMessage("Finish");
+            // SceneManager.LoadScene(levelToLoad);
         }
     }
 }
