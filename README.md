@@ -2,7 +2,7 @@
 
 Example Unity Project with echo3D integrated. 
 
-This marble maze game loads some of its decoration and destination using the Echo3D API. Control the ball through a maze to find out the right landmark to escape the maze. 
+This marble maze game loads some of its decoration and destination using the Echo3D API. Control the ball through a maze to find out the right landmark to escape the maze. At the end of game, your will be able to find out your final time when you find the landmark!
 
 # Version
 
