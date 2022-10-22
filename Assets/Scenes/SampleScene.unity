@@ -133,7 +133,6 @@ GameObject:
   m_Component:
   - component: {fileID: 23013791}
   - component: {fileID: 23013790}
-  - component: {fileID: 23013792}
   m_Layer: 0
   m_Name: Fire
   m_TagString: Untagged
@@ -176,20 +175,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 23
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!136 &23013792
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 23013789}
-  m_Material: {fileID: 13400000, guid: 9e2a1c11c2777463e9a2d9dc5ef3486b, type: 2}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  m_Radius: 0.5
-  m_Height: 1
-  m_Direction: 1
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &50367275
 GameObject:
   m_ObjectHideFlags: 0
@@ -588,7 +573,6 @@ GameObject:
   m_Component:
   - component: {fileID: 252885770}
   - component: {fileID: 252885769}
-  - component: {fileID: 252885771}
   m_Layer: 0
   m_Name: Tree
   m_TagString: Untagged
@@ -631,20 +615,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 24
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!136 &252885771
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 252885768}
-  m_Material: {fileID: 13400000, guid: 9e2a1c11c2777463e9a2d9dc5ef3486b, type: 2}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  m_Radius: 0.5
-  m_Height: 1
-  m_Direction: 1
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &466575502
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -903,7 +873,6 @@ GameObject:
   m_Component:
   - component: {fileID: 713493464}
   - component: {fileID: 713493463}
-  - component: {fileID: 713493465}
   m_Layer: 0
   m_Name: Building
   m_TagString: Untagged
@@ -946,20 +915,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 25
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!136 &713493465
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 713493462}
-  m_Material: {fileID: 13400000, guid: 9e2a1c11c2777463e9a2d9dc5ef3486b, type: 2}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  m_Radius: 0.5
-  m_Height: 1
-  m_Direction: 1
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &791753894
 GameObject:
   m_ObjectHideFlags: 0
@@ -1879,7 +1834,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1272766613}
   - component: {fileID: 1272766612}
-  - component: {fileID: 1272766614}
   m_Layer: 0
   m_Name: fox
   m_TagString: Untagged
@@ -1922,20 +1876,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 35
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!136 &1272766614
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1272766611}
-  m_Material: {fileID: 13400000, guid: 9e2a1c11c2777463e9a2d9dc5ef3486b, type: 2}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  m_Radius: 0.5
-  m_Height: 1
-  m_Direction: 1
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1278862496
 GameObject:
   m_ObjectHideFlags: 0
@@ -2110,7 +2050,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1341278762}
   - component: {fileID: 1341278761}
-  - component: {fileID: 1341278763}
   m_Layer: 0
   m_Name: Flamingo
   m_TagString: Untagged
@@ -2153,20 +2092,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 36
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!136 &1341278763
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1341278760}
-  m_Material: {fileID: 13400000, guid: 9e2a1c11c2777463e9a2d9dc5ef3486b, type: 2}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  m_Radius: 0.5
-  m_Height: 1
-  m_Direction: 1
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1399488750
 GameObject:
   m_ObjectHideFlags: 0
@@ -3604,7 +3529,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -238.8, y: -183.1}
+  m_AnchoredPosition: {x: 246.1, y: 159.9}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2086168784
@@ -3637,7 +3562,7 @@ MonoBehaviour:
   m_fontColor32:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
