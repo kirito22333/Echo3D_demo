@@ -13,7 +13,7 @@ Built and tested with Unity [2020.3.0f1](https://unity3d.com/get-unity/download/
 
 Don't have an API Key? Make sure to register for FREE at [echo3D](https://www.echo3d.co).
 
-# Set uplandmark
+# Set up landmark
 
 * Clone this project repository locally 
 * Open the SampleScene scene in the scene folder under assets.
